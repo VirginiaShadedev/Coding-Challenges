@@ -12,7 +12,6 @@
 // e: Bobba=> " Hello world"
 // p():Function takes in and returns "Hello World"
 
-
 function greet(x){ 
 
     return x 
