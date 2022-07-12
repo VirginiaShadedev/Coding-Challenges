@@ -28,8 +28,19 @@ function numberToString(num) {
     // Return a string of the number here!
     return String(num);
   }
-  
+
 //   I find this solution very easy to understand. You simply use
  String (num)
-//  and this is straing to the point. You need a string to every num. So the function will return just that a string to every num. Straight to the point. 
+//  and this is string to the point. You need a string to every num. So the function will return just that a string to every num. Straight to the point. 
  
+// Example 2
+
+function numberToString(num) {
+    return ''+num;
+  }
+
+// This is one of my favorite methods I have encountered thus far for this code challenge. simply using the 
+''
++num
+
+// straight to the point.you need to add a string to every number. 
