@@ -39,7 +39,8 @@ function numberToString(num) {
     return ''+num;
   }
 
-// This is one of my favorite methods I have encountered thus far for this code challenge. simply using the 
+
+  // This is one of my favorite methods I have encountered thus far for this code challenge. simply using the 
 ''
 +num
 
