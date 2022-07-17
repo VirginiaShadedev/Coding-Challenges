@@ -46,7 +46,12 @@ Number
 
 // OTHER POSSIBLE SOLUTIONS 
 // Example 1 
-
+var stringToNumber = function(str){
+  return parseInt(str);
+}
+// In this example I can possibly use 
+parseInt
+// from what I understand this converts its first argument to a string, parses the string, then returns an integer. This essentially gives us the number with no strings. 
 
 // Example 2
 
