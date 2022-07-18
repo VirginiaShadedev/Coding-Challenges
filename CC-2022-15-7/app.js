@@ -55,6 +55,12 @@ parseInt
 
 // Example 2
 
+// Another method can be 
+
+var stringToNumber = Number;
+
+// This one is straight to the point. That you want a number as a return. 
+
 
 
 
