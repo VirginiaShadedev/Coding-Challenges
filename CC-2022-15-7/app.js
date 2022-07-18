@@ -61,6 +61,13 @@ var stringToNumber = Number;
 
 // This one is straight to the point. That you want a number as a return. 
 
+// Example 3 
+
+// Another method can be
+
+const stringToNumber = function(str){return Number(str)}
+
+// This method was not as simple as the previous methods, but I can see that it the paranthesis around the str can retract the string and just provide the number. 
 
 
 
